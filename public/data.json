@@ -1,0 +1,199 @@
+[
+    {
+        "id": "aaa1",
+        "title": "Arlington Street",
+        "img": "https://a19c53f45b440f049d21-3f2703e71e5f5fed646a243f2d21abcb.ssl.cf3.rackcdn.com/property_image.378cm276.v1/to-rent/Arlington-Street-London-SW1A/190583/190583_5ofkahi39x21zszgdesikw8zn.jpg",
+        "service": "Rent",
+        "price": 700,
+        "description": "Stunning triplex penthouse apartment with private roof terrace situated in the desirable Walpole Mayfair, once occupied by Prime Minister Sir Robert Walpole.",
+        "location":"London",
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Reception":1
+
+    },
+    {
+        "id": "aaa2",
+        "title": "Queen Annes Gate",
+        "img": "https://a19c53f45b440f049d21-3f2703e71e5f5fed646a243f2d21abcb.ssl.cf3.rackcdn.com/property_image.378cm276.v1/to-rent/Queen-Annes-Gate-London-SW1H/186571/186571_3kmz638tef2plg8exh5z7roro.jpg",
+        "service": "Rent",
+        "price": 800,
+        "description": "A magnificent five bedroom, two receptions Grade I Listed historic Georgian townhouse next to St James's Park. The property benefits from three separate entertaining spaces and its own lift inside the property. The house is laid out of five floors.",
+        "location":"London",
+        "Bedrooms":5,
+        "Bathrooms":5,
+        "Reception":3
+
+    },
+    {
+        "id": "aaa3",
+        "title": "Adams Row",
+        "img": "https://a19c53f45b440f049d21-3f2703e71e5f5fed646a243f2d21abcb.ssl.cf3.rackcdn.com/property_image.378cm276.v1/to-rent/Adams-Row-London-W1K/187095/187095_cbhexi2yrytnymuqow58rtrw9.jpg",
+        "service": "Sell",
+        "price": 80000,
+        "description": "A unique four bedroom Mayfair property completely remodelled throughout to include a private gym, cinema, terrace and garage.",
+        "location":"New York",
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Reception":1
+
+    },
+    {
+        "id": "aaa4",
+        "title": "Glebe Place",
+        "img": "https://a19c53f45b440f049d21-3f2703e71e5f5fed646a243f2d21abcb.ssl.cf3.rackcdn.com/property_image.378cm276.v1/to-rent/Glebe-Place-London-SW3/189571/189571_32016ya1qbvb3wa07ao04azy3.jpg",
+        "service": "Sell",
+        "price": 100000,
+        "description": "This unique house has been interior designed to the highest of standards to create an incredibly contemporary property in the centre of Chelsea. The house comprises 5 bedrooms,4 reception rooms, 5 bathrooms, garden and a roof terrace.",
+        "location":"California",
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Reception":2
+
+    },
+    {
+        "id": "aaa5",
+        "title": "Finchley Road",
+        "img": "https://a19c53f45b440f049d21-3f2703e71e5f5fed646a243f2d21abcb.ssl.cf3.rackcdn.com/property_image.378cm276.v1/to-rent/Finchley-Road-London-NW8/189471/189471_3opoo0kmlvzvg9hlehn33ajx6.jpg",
+        "service": "Rent",
+        "price": 1000,
+        "description": "This top of the range penthouse apartment offers luxurious living space over two floors with one of the best views of London. The extremely high specification of interiors create one of London's finest penthouses.",
+        "location":"California",
+        "Bedrooms":5,
+        "Bathrooms":6,
+        "Reception":3
+
+    },
+    {
+        "id": "aaa6",
+        "title": "Upper Brook Street",
+        "img": "https://a19c53f45b440f049d21-3f2703e71e5f5fed646a243f2d21abcb.ssl.cf3.rackcdn.com/property_image.378cm276.v1/to-rent/Upper-Brook-Street-London-W1K/179851/179851_2pm64doruv2butxt0ayzot1mm.jpg",
+        "service": "Rent",
+        "price": 2000,
+        "description": "An elegant Neo-Georgian five storey townhouse of 4,879 sq.ft which has been newly renovated in a contemporary style.",
+        "location":"California",
+        "Bedrooms":7,
+        "Bathrooms":6,
+        "Reception":3
+    },
+    {
+        "id": "aaa7",
+        "title": "Knightsbridge",
+        "img": "https://a19c53f45b440f049d21-3f2703e71e5f5fed646a243f2d21abcb.ssl.cf3.rackcdn.com/property_image.378cm276.v1/to-rent/Knightsbridge-London-SW1X/188413/188413_f5fftech9y584qfo4d1qhpnc0.jpg",
+        "service": "Rent",
+        "price": 8000,
+        "description": "This five bedroom, five bathroom sub-penthouse apartment has been finished to the highest of standards. Stretching over 3,500sq/ft of the fifth floor of one of Knightbridge's most prestigious blocks this property offers the finish to match the.",
+        "location":"California",
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Reception":1
+    },
+    {
+        "id": "aaa8",
+        "title": "The Bishops Avenue",
+        "img": "https://a19c53f45b440f049d21-3f2703e71e5f5fed646a243f2d21abcb.ssl.cf3.rackcdn.com/property_image.378cm276.v1/to-rent/The-Bishops-Avenue-London-N2/185041/185041_2vwn4oiwrqgzeffqbz09pgmrd.jpg",
+        "service": "Sell",
+        "price": 800000,
+        "description": "A beautiful detached 5880 sq ft home on the world renowned Bishops Avenue. The property comprises of five bedrooms, five bathrooms, a spectacular leisure centre and a very generous garden.",
+        "location":"London",
+        "Bedrooms":5,
+        "Bathrooms":5,
+        "Reception":2
+    },
+    {
+        "id": "aaa9",
+        "title": "Park Road",
+        "img": "https://a19c53f45b440f049d21-3f2703e71e5f5fed646a243f2d21abcb.ssl.cf3.rackcdn.com/property_image.378cm276.v1/to-rent/Park-Road-London-NW8/190164/190164_4epir94ss6w0473tn0kx0in6q.jpg",
+        "service": "Sell",
+        "price": 900000,
+        "description": "A lateral apartment situated on the fourth floor of a prestigious mansion block with views over gardens. The property has been refurbished to the highest of standards to maintain a feeling of continuity throughout the apartment.",
+        "location":"London",
+        "Bedrooms":5,
+        "Bathrooms":5,
+        "Reception":2
+    },
+    {
+        "id": "aab1",
+        "title": "Duke Street",
+        "img": "https://a19c53f45b440f049d21-3f2703e71e5f5fed646a243f2d21abcb.ssl.cf3.rackcdn.com/property_image.378cm276.v1/to-rent/Duke-Street-London-W1K/190358/190358_1e89cca9mjvwmkedulh81l8wr.jpg",
+        "service": "Sell",
+        "price": 900000,
+        "description": "A lateral apartment situated on the fourth floor of a prestigious mansion block with views over gardens. The property has been refurbished to the highest of standards to maintain a feeling of continuity throughout the apartment.",
+        "location":"London",
+        "Bedrooms":5,
+        "Bathrooms":5,
+        "Reception":2
+    },
+    {
+        "id": "aab2",
+        "title": "Properties let in Arlington Street",
+        "img": "https://a19c53f45b440f049d21-3f2703e71e5f5fed646a243f2d21abcb.ssl.cf3.rackcdn.com/property_image.378cm276.v1/to-rent/Arlington-Street-London-SW1A/181638/181638_2emezl2c22pjjabu6339mzcpn.jpg",
+        "service": "Rent",
+        "price": 9000,
+        "description": "This stunning, newly renovated two bedroom apartment is located within an award winning development, set in a peaceful enclave in St James's just behind the Ritz.",
+        "location":"New York",
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Reception":1
+    },
+    {
+        "id": "aab3",
+        "title": "Bingham Place",
+        "img": "https://a19c53f45b440f049d21-3f2703e71e5f5fed646a243f2d21abcb.ssl.cf3.rackcdn.com/property_image.378cm276.v1/to-rent/Bingham-Place-London-W1U/180556/180556_8qvmwazlt0qp21sdy0z78plok.jpg",
+        "service": "Rent",
+        "price": 7000,
+        "description": "This stunning, newly renovated two bedroom apartment is located within an award winning development, set in a peaceful enclave in St James's just behind the Ritz.",
+        "location":"California",
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Reception":3
+    },
+    {
+        "id": "aab4",
+        "title": "King's Quay",
+        "img": "https://a19c53f45b440f049d21-3f2703e71e5f5fed646a243f2d21abcb.ssl.cf3.rackcdn.com/property_image.378cm276.v1/to-rent/King-s-Quay-London-SW10/183654/183654_4a5okcgs1bk1ifrwgjoh84fy0.jpg",
+        "service": "Sell",
+        "price": 700000,
+        "description": "A truly stunning harbour and riverside penthouse in the sought after and prestigious Chelsea Harbour development. This impressive apartment spans",
+        "location":"California",
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Reception":1
+    },
+    {
+        "id": "aab5",
+        "title": "Woods Mews",
+        "img": "https://a19c53f45b440f049d21-3f2703e71e5f5fed646a243f2d21abcb.ssl.cf3.rackcdn.com/property_image.378cm276.v1/to-rent/Woods-Mews-London-W1K/191344/191344_7pqqa1ok16xv53l9qo3kcoha9.jpg",
+        "service": "Sell",
+        "price": 700000,
+        "description": "An exceptional family home of impressive proportions situated close to Park Lane, Hyde Park and Grosvenor Square.",
+        "location":"Texas",
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Reception":1
+    },
+    {
+        "id": "aac6",
+        "title": "Cadogan Gardens",
+        "img": "https://a19c53f45b440f049d21-3f2703e71e5f5fed646a243f2d21abcb.ssl.cf3.rackcdn.com/property_image.378cm276.v1/to-rent/Cadogan-Gardens-London-SW3/183808/183808_55g2qxm2tbh8h842bau2qg5f7_R1.jpg",
+        "service": "Rent",
+        "price": 7500,
+        "description": "An impressive three bedroom duplex apartment on a sought after garden square in Chelsea. Interior designed throughout, this property is perfect for those who enjoy the finer things in life.",
+        "location":"Texas",
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Reception":1
+    },
+    {
+        "id": "aab6",
+        "title": "Lowndes Square",
+        "img": "https://a19c53f45b440f049d21-3f2703e71e5f5fed646a243f2d21abcb.ssl.cf3.rackcdn.com/property_image.378cm276.v1/to-rent/Lowndes-Square-London-SW1X/187754/187754_486zlrsnrg5n5xmbnoo6ugn4c.jpg",
+        "service": "Sell",
+        "price": 858000,
+        "description": "This three bedroom apartment located on the the third floor of this popular building onone of the most prestigious square London has to offer. With 24 hour porterage, lift access and air conditioning this property ticks a lot of boxes.",
+        "location":"Texas",
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Reception":1
+    }
+]
