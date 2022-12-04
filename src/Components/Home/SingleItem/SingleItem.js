@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const SingleItem = ({item}) => {
     const { id, img, service, title, price, description, location, Bathrooms, Bedrooms, Reception}=item;
@@ -21,8 +22,8 @@ const SingleItem = ({item}) => {
                 </div>
                 <div className="card-actions justify-end">
                     {
-                        service==="Rent"?<button className="btn btn-primary">Rent Now</button>:
-                            <button className="btn btn-primary">Buy Now</button>
+                        service==="Rent"?<Link to='/details' className="btn btn-primary">Rent Now</Link>:
+                            <Link to='/details' className="btn btn-primary">Buy Now</Link>
                     }
                 </div>
             </div>
